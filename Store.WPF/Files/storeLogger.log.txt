@@ -1,0 +1,259 @@
+2020-02-05 11:39:46,941 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 11:52:10,591 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 11:54:45,068 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 11:55:11,263 [1] ERROR Store.WPF.Views.Checkouts.Checkout - The LINQ expression 'DbSet<Sale>
+    .Where(s => s.DateCreated.ToShortDateString() == DateTime.Now.ToShortDateString())' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to either AsEnumerable(), AsAsyncEnumerable(), ToList(), or ToListAsync(). See https://go.microsoft.com/fwlink/?linkid=2101038 for more information.
+2020-02-05 11:57:42,490 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 11:58:49,300 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Could not find a part of the path 'C:\Users\drumi.stoyanov\source\repos\Store\Store.WPF\Files\DailyFiles2\5\2020.txt'.
+2020-02-05 11:59:47,371 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Could not find a part of the path 'C:\Users\drumi.stoyanov\source\repos\Store\Store.WPF\Files\DailyFiles\2\5\2020.txt'.
+2020-02-05 12:03:54,697 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 12:04:58,851 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:00:23,711 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:01:15,363 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:01:54,845 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:04:25,811 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:04:56,341 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:05:04,899 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Input string was not in a correct format.
+2020-02-05 14:05:08,603 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Input string was not in a correct format.
+2020-02-05 14:05:10,955 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Input string was not in a correct format.
+2020-02-05 14:05:15,685 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Input string was not in a correct format.
+2020-02-05 14:05:20,707 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Input string was not in a correct format.
+2020-02-05 14:13:19,246 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Input string was not in a correct format.
+2020-02-05 14:13:21,566 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Input string was not in a correct format.
+2020-02-05 14:14:17,927 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-05 14:26:22,039 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:30:55,311 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:34:22,146 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:34:48,557 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 14:34:49,545 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 14:34:50,185 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 14:34:50,369 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 14:34:52,857 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 14:36:33,402 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:39:04,558 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:40:16,435 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:46:59,811 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:54:27,965 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 14:58:06,509 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 2 added to the bill.
+2020-02-05 14:58:13,812 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 2 added to the bill.
+2020-02-05 15:10:51,428 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 15:19:14,508 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 22222 added to the bill.
+2020-02-05 15:19:26,017 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:19:28,138 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:19:32,334 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:19:35,750 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:19:38,933 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:19:44,800 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 15:19:52,546 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 22 added to the bill.
+2020-02-05 15:20:16,910 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:20:19,699 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 15:20:25,279 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-05 15:20:29,003 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:24:02,905 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 15:24:16,040 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 2 added to the bill.
+2020-02-05 15:25:29,155 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:25:42,804 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 15:25:49,826 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 15:26:00,923 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-05 15:26:25,367 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Кола with quantity 20 added to the bill.
+2020-02-05 15:27:33,666 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:37:08,432 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 15:37:23,927 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 5 added to the bill.
+2020-02-05 15:38:04,207 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:39:29,497 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 15:40:31,013 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-05 15:42:04,705 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-05 15:42:15,063 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-05 15:42:19,804 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-05 15:44:13,817 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-05 15:45:27,485 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-05 15:48:58,500 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 15:49:27,695 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такъв продукт 1!
+2020-02-05 15:53:22,159 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 15:53:43,297 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такъв продукт 1!
+2020-02-05 15:54:02,143 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Object reference not set to an instance of an object.
+2020-02-05 15:54:39,697 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Object reference not set to an instance of an object.
+2020-02-05 15:55:42,980 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Object reference not set to an instance of an object.
+2020-02-05 15:56:49,585 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-05 15:57:08,714 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такъв продукт с id/barcode 3213213!
+2020-02-05 15:57:56,576 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такъв продукт с id/barcode 1414141!
+2020-02-06 12:14:57,438 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-06 12:15:12,004 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такъв продукт с id/barcode 1!
+2020-02-06 12:15:16,554 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 8 added to the bill.
+2020-02-06 12:15:44,550 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Няма такова количество от 1 налично!
+2020-02-06 12:15:49,727 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Sequence contains no elements
+2020-02-06 12:15:59,357 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-06 12:17:58,866 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-06 12:18:25,507 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-06 12:22:21,953 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-06 12:22:27,905 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-06 12:23:33,031 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-06 12:23:33,871 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-06 12:23:42,886 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product 1 with quantity 1 added to the bill.
+2020-02-17 14:07:37,598 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:07:49,685 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:07:54,117 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:08:10,006 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:08:13,729 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:08:16,319 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:08:19,248 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:09:39,923 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:22:54,847 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:24:36,644 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:24:59,065 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:25:46,659 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Вода
+2020-02-17 14:25:57,817 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:26:13,490 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 4 added to the bill.
+2020-02-17 14:26:15,906 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:26:56,889 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:32:54,615 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:33:04,151 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 5 added to the bill.
+2020-02-17 14:34:18,266 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:34:28,124 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 5 added to the bill.
+2020-02-17 14:36:05,094 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:36:11,764 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 4 added to the bill.
+2020-02-17 14:40:59,130 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:41:15,410 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 5 added to the bill.
+2020-02-17 14:42:01,643 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:42:09,258 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 9 added to the bill.
+2020-02-17 14:44:20,063 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:44:28,659 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 10 added to the bill.
+2020-02-17 14:46:45,295 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:46:52,067 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 10 added to the bill.
+2020-02-17 14:48:27,840 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:48:36,450 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 1 added to the bill.
+2020-02-17 14:49:39,343 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 14:49:47,526 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 1 added to the bill.
+2020-02-17 14:51:07,595 [1] ERROR Store.WPF.Views.Bills.BillWindow - Object reference not set to an instance of an object.
+2020-02-17 14:52:59,073 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:53:04,258 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 5 added to the bill.
+2020-02-17 14:56:59,364 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 14:57:04,883 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 10 added to the bill.
+2020-02-17 15:00:15,931 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 15:00:21,952 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 10 added to the bill.
+2020-02-17 15:01:58,975 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 15:05:13,349 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 15:05:19,501 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 10 added to the bill.
+2020-02-17 15:07:12,684 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 15:15:00,967 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 15:15:19,918 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 50 added to the bill.
+2020-02-17 15:16:33,211 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 15:19:11,006 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 15:19:19,012 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 10 added to the bill.
+2020-02-17 15:19:22,904 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 5 added to the bill.
+2020-02-17 15:19:58,153 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-02-17 15:22:08,434 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 15:22:15,367 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 10 added to the bill.
+2020-02-17 15:35:48,268 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-02-17 15:35:56,411 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 100 added to the bill.
+2020-02-17 15:36:21,050 [1] ERROR Store.WPF.Views.Checkouts.Checkout - Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'PriceWithDDS'.
+Invalid column name 'PriceWithoutDDS'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:d0f3a963-7fa1-434a-85d6-5043e74388a5
+Error Number:207,State:1,Class:16
+2020-06-21 16:55:04,848 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-21 16:57:51,449 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:01:50,046 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:04:04,401 [1] ERROR Store.WPF.Views.Users.Login - Object reference not set to an instance of an object.
+2020-06-22 09:05:14,133 [1] ERROR Store.WPF.Views.Users.Login - Object reference not set to an instance of an object.
+2020-06-22 09:05:36,634 [1] INFO Store.WPF.Views.Users.Login - Потребител с име seller влезе в системата
+2020-06-22 09:17:16,172 [1] ERROR Store.WPF.Views.Users.Login - Exception of type 'System.Exception' was thrown.
+2020-06-22 09:17:41,036 [1] ERROR Store.WPF.Views.Users.Login - Object reference not set to an instance of an object.
+2020-06-22 09:19:52,327 [1] ERROR Store.WPF.Views.Users.Login - Exception of type 'System.Exception' was thrown.
+2020-06-22 09:20:56,000 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:21:35,694 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:21:46,178 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 09:22:26,020 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:23:12,621 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 09:23:47,770 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Кока кола
+2020-06-22 09:25:14,708 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:25:22,704 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 09:25:27,973 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 09:25:32,531 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 09:25:38,465 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 09:25:42,333 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Вода with quantity 5 added to the bill.
+2020-06-22 09:28:55,900 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:30:33,494 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:40:09,384 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:44:05,744 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:45:46,826 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:46:30,943 [1] INFO Store.WPF.Views.Products.Products - Изтрит е продукт с ID: 7
+2020-06-22 09:46:38,282 [1] INFO Store.WPF.Views.Products.Products - Изтрит е продукт с ID: 8
+2020-06-22 09:46:44,225 [1] INFO Store.WPF.Views.Products.Products - Изтрит е продукт с ID: 9
+2020-06-22 09:50:03,490 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:56:30,408 [1] INFO Store.WPF.Views.Users.Login - Потребител с име 1 влезе в системата
+2020-06-22 09:59:23,444 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Кока кола
+2020-06-22 09:59:50,367 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Фанта Портокал
+2020-06-22 10:00:25,370 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Минерална вода 0.500
+2020-06-22 10:00:53,410 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Хляб
+2020-06-22 10:01:18,724 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Вафла Боровец
+2020-06-22 10:01:50,158 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Кроасан с шоколад
+2020-06-22 10:02:15,909 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Прах за пране
+2020-06-22 10:02:38,410 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Веро
+2020-06-22 13:20:52,231 [1] ERROR Store.WPF.Views.Users.Login - Exception of type 'System.Exception' was thrown.
+2020-06-22 13:32:18,090 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:32:52,997 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:34:03,404 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:52:41,945 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:53:24,785 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:54:29,702 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:57:35,278 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:57:53,237 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:58:07,497 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:58:31,514 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:59:03,146 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 13:59:41,155 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 14:00:04,013 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 14:00:26,269 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Кока кола 0.500
+2020-06-22 14:00:43,307 [1] ERROR Store.WPF.Views.Products.AddProduct - Грешка Input string was not in a correct format.
+2020-06-22 14:01:05,729 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Фанта Портокал 0.500
+2020-06-22 14:01:30,137 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Минерална Вода 0.500
+2020-06-22 14:01:58,944 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Кока кола 2л.
+2020-06-22 14:02:25,095 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Фанта портокал 2л.
+2020-06-22 14:02:55,341 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Чипс Паприка
+2020-06-22 14:03:44,831 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Картофи
+2020-06-22 14:04:06,897 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Домати
+2020-06-22 14:04:32,558 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Кисело мляко
+2020-06-22 14:04:52,112 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Прах за пране
+2020-06-22 14:05:06,203 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Веро
+2020-06-22 14:05:24,920 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Боб
+2020-06-22 14:05:44,853 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Леща
+2020-06-22 14:06:01,177 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Ориз
+2020-06-22 14:06:34,194 [1] INFO Store.WPF.Views.Products.AddProduct - Добавен е продукт Луканка
+2020-06-22 14:06:51,415 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:06:52,381 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:00,542 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:01,237 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:01,413 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:01,605 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:04,157 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:04,421 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:04,564 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:04,709 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:05,445 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:06,125 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:27,813 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:36,103 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:07:40,100 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:08:13,119 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 14:09:04,884 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:10:46,181 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 14:11:00,718 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:13:05,502 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 14:13:28,745 [1] ERROR Store.WPF.Views.Checkouts.Checkout - 
+2020-06-22 14:16:09,097 [1] INFO Store.WPF.Views.Users.Login - Потребител с име admin влезе в системата
+2020-06-22 14:16:52,046 [1] INFO Store.WPF.Views.Checkouts.Checkout - Product Фанта Портокал 0.500 with quantity 2 added to the bill.

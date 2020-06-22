@@ -1,0 +1,85 @@
+﻿<Window x:Class="Store.WPF.Views.Payments.PaymentsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"      
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Title="Payments" Height="220" Width="350" HorizontalAlignment="Center" VerticalAlignment="Center" WindowStyle="None" Background="{x:Null}">
+    <Border CornerRadius="25"   Background="#FF222431" >
+        <Grid >
+            <Button x:Name="SalesButton" Margin="30,32,190,120" Background="#FF45526E" Click="SalesButton_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="3"/>
+                    </Style>
+                </Button.Resources>
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Image Height="35" Source="/Images/products_icon.png"/>
+                    <StackPanel Grid.Column="1" Margin="5">
+                        <TextBlock Text="Продажби" FontWeight="Bold" Foreground="#FF669E9C" />
+                    </StackPanel>
+                </Grid>
+            </Button>
+
+
+            <Button x:Name="NotPaidButton" Margin="193,32,23,120" Background="#FF45526E" Click="NotPaidButton_Click" >
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="3"/>
+                    </Style>
+                </Button.Resources>
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Image Height="35" Source="/Images/notpaid_icon.png" Grid.RowSpan="2"/>
+                    <StackPanel Grid.Column="1" Margin="5,0,5,5" Grid.Row="1">
+                        <TextBlock Text="Неплатени" FontWeight="Bold" Foreground="#FF669E9C" />
+                    </StackPanel>
+                </Grid>
+            </Button>
+            <Button x:Name="BillsButton" Margin="30,116,190,36" Background="#FF45526E" Click="BillsButton_Click" >
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="3"/>
+                    </Style>
+                </Button.Resources>
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Image Height="35" Source="/Images/bill_icon.png"/>
+                    <StackPanel Grid.Column="1" Margin="5">
+                        <TextBlock Text="Фактури" FontWeight="Bold" Foreground="#FF669E9C" />
+                    </StackPanel>
+                </Grid>
+            </Button>
+            <Button x:Name="ExitButton" Margin="195,116,23,36" Background="#FF45526E" Click="ExitButton_Click">
+                <Button.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="3"/>
+                    </Style>
+                </Button.Resources>
+                <Grid >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Image Height="35" Source="/Images/exit_icon.png"/>
+                    <StackPanel Grid.Column="1" Margin="5">
+                        <TextBlock Text="Изход" FontWeight="Bold" Foreground="#FF669E9C" />
+                    </StackPanel>
+                </Grid>
+            </Button>
+        </Grid>
+    </Border>
+</Window>

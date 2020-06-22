@@ -1,0 +1,18 @@
+﻿<Window x:Class="Store.WPF.Views.Products.Products"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Products" Width="700" Height="484" HorizontalAlignment="Center" VerticalAlignment="Center" WindowStyle="None" Loaded="Window_Loaded" Background="{x:Null}" Foreground="{x:Null}" ResizeMode="NoResize" Topmost="True">
+    <Grid Background="#FF222431" >
+        <DataGrid x:Name="productsGrid" Margin="10,10,10,85" ItemsSource="{Binding}" EnableRowVirtualization="False" CanUserAddRows="True"
+                 BorderThickness="5"  IsReadOnly="True" AutoGenerateColumns="True" Cursor="Hand"/>
+
+        <Button x:Name="bnt_Insert" Content="Добави" HorizontalAlignment="Left" Margin="10,425,0,0" VerticalAlignment="Top" Height="28" Width="62" Click="Bnt_Insert_Click" Background="#FF114DA2" Cursor="Hand"/>
+        <Button x:Name="bnt_Update" Content="Промени" HorizontalAlignment="Left" Margin="100,425,0,0" VerticalAlignment="Top" Height="28" Width="62" Click="Bnt_Update_Click" Background="#FF114DA2" Cursor="Hand"/>
+        <Button x:Name="bnt_Delete" Content="Изтрий" HorizontalAlignment="Left" Margin="190,425,0,0" VerticalAlignment="Top" Height="28" Width="62" Click="Bnt_Delete_Click" Background="#FF114DA2" Cursor="Hand"/>
+        <Button x:Name="bnt_Close" Content="Затвори" HorizontalAlignment="Left" Margin="280,425,0,0" VerticalAlignment="Top" Height="28" Width="62" Click="Bnt_Close_Click" Background="#FF114DA2" Cursor="Hand"/>
+    </Grid>
+</Window>
